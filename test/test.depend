@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687695469 source:c:\users\noech\documents\c++\hello\test\main.cpp
+	<iostream>
+	<string>
+
+1687728525 source:c:\users\noech\documents\c++\hello\test\math.cpp
+

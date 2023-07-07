@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688411373 source:c:\users\noech\documents\c++\hello\polymorphisme\polymorphisme.cpp
+	"polymorphisme.hpp"
+	<iostream>
+	<cmath>
+
+1688411585 c:\users\noech\documents\c++\hello\polymorphisme\polymorphisme.hpp
+
+1688411511 source:c:\users\noech\documents\c++\hello\polymorphisme\main.cpp
+	<iostream>
+	"polymorphisme.hpp"
+	<vector>
+

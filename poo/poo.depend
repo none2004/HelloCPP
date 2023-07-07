@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687907200 source:c:\users\noech\documents\c++\hello\poo\personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.hpp"
+
+1687907148 c:\users\noech\documents\c++\hello\poo\personnage.hpp
+	<string>
+
+1687813837 source:c:\users\noech\documents\c++\hello\poo\main.cpp
+	<iostream>
+	<string>
+	"Personnage.hpp"
+
